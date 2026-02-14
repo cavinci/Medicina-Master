@@ -1,0 +1,63 @@
+{
+  "secciones": [
+    {
+      "nombre": "Universidad",
+      "slug": "uni",
+      "niveles": [
+        {
+          "nombre": "1º Curso",
+          "cuatrimestres": [
+            {
+              "nombre": "1º Cuatrimestre",
+              "asignaturas": [
+                {
+                  "id": "uni_anatomia1",
+                  "titulo": "Anatomía Humana I",
+                  "archivo": "universidad_anatomia1.json",
+                  "icono": "fa-skeleton"
+                },
+                {
+                  "id": "uni_citologia",
+                  "titulo": "Citología, Herencia y Desarrollo",
+                  "archivo": "universidad_citologiaHerenciaDesarrolloHumano.json",
+                  "icono": "fa-dna"
+                },
+                {
+                  "id": "uni_fisiologia",
+                  "titulo": "Fisiología General",
+                  "archivo": "universidad_fisiologiaGeneral.json",
+                  "icono": "fa-wave-square"
+                }
+              ]
+            },
+            {
+              "nombre": "2º Cuatrimestre",
+              "asignaturas": []
+            }
+          ]
+        },
+        {
+          "nombre": "2º Curso",
+          "cuatrimestres": []
+        }
+      ]
+    },
+    {
+      "nombre": "OPE",
+      "slug": "ope",
+      "niveles": [
+        {
+          "nombre": "Especialidades SAS",
+          "asignaturas": [
+            {
+              "id": "ope_medicinaFisicaRehabilitacion",
+              "titulo": "M. Física y Rehabilitación",
+              "archivo": "ope_medicinaFisicaRehabilitacion.json",
+              "icono": "fa-wheelchair"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

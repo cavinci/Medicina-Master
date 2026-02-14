@@ -1,0 +1,1944 @@
+{
+  "metadata": {
+    "tipo": "UNIVERSIDAD",
+    "asignatura": "Citología, Herencia y Desarrollo Humano",
+    "curso": "1º",
+    "cuatrimestre": "1º",
+    "universidad": "UGR",
+    "ultima_revision": "2025-02-24"
+  },
+  "preguntas": [
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00001",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con la membrana plasmática es FALSA? (Versión 1)",
+      "opciones": [
+        "Las proteínas pueden ser de transmembrana",
+        "Los lípidos a veces carecen de capacidad de difusión lateral",
+        "Los glúcidos están localizados siempre en la hojilla citosólica",
+        "Las proteínas a veces carecen de capacidad de difusión lateral"
+      ],
+      "correcta": 2,
+      "explicacion": "Los glúcidos (formando glicolípidos y glicoproteínas) se localizan **always** en la hojilla **externa** (no citosólica) formando el glicocáliz.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00002",
+      "enunciado": "¿Cuál de los siguientes elementos NO solemos observar en curvaturas de membrana ultramicroscópicas?",
+      "opciones": [
+        "COPI",
+        "Clatrina",
+        "Dineína",
+        "COPII"
+      ],
+      "correcta": 2,
+      "explicacion": "COPI, Clatrina y COPII son proteínas de cubierta que participan en el tráfico vesicular. La **Dineína** es una proteína motora asociada a microtúbulos, no directamente a la inducción de curvaturas de membrana.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00003",
+      "enunciado": "Es un organelo fundamental junto con el retículo endoplasmático para la biogénesis de la membrana plasmática:",
+      "opciones": [
+        "Lisosoma",
+        "Aparato de Golgi",
+        "Centriolo",
+        "Peroxisoma"
+      ],
+      "correcta": 1,
+      "explicacion": "El **Retículo Endoplasmático (REL)** sintetiza la mayoría de los lípidos y el **Aparato de Golgi** modifica y clasifica estos lípidos y proteínas antes de enviarlos a la membrana.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00004",
+      "enunciado": "Las glicoproteínas de la membrana plasmática se sintetizan en:",
+      "opciones": [
+        "Ribosomas citoplasmáticos libres",
+        "Ribosomas asociados al retículo endoplasmático rugoso",
+        "Ribosomas asociados al aparato de Golgi",
+        "Polirribosomas citoplasmáticos libres"
+      ],
+      "correcta": 1,
+      "explicacion": "Las proteínas de secreción o de membrana se sintetizan en los **ribosomas asociados al RER**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00005",
+      "enunciado": "¿Cuál de estas equivalencias es INCORRECTA? (Versión 1)",
+      "opciones": [
+        "$1 \\mu \\text{m} = 10^3 \\text{ nm}$",
+        "$1 \\mu \\text{m} = 10^{-6} \\text{ m}$",
+        "$1 \\text{ nm} = 10^{-1} \\text{ Å}$",
+        "$1 \\text{ nm} = 10^{-9} \\text{ m}$"
+      ],
+      "correcta": 2,
+      "explicacion": "La equivalencia correcta es $1 \\text{ nm} = 10 \\text{ Å}$ o $1 \\text{ Å} = 0.1 \\text{ nm}$. Por lo tanto, $1 \\text{ nm} = 10^1 \\text{ Å}$, no $10^{-1} \\text{ Å}$.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00006",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA en relación con el glicocáliz? (Versión 1)",
+      "opciones": [
+        "Los gangliósidos son glicolípidos de membrana",
+        "Proporciona carga eléctrica negativa a la superficie celular",
+        "No se puede observar con microscopía óptica",
+        "Se puede observar con microscopía electrónica cuando se utiliza rojo de rutenio"
+      ],
+      "correcta": 2,
+      "explicacion": "El glicocáliz **sí** se puede observar con **microscopía óptica** mediante la técnica del **PAS**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00007",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA en relación con el glicocáliz? (Versión 2)",
+      "opciones": [
+        "Los gangliósidos son glicolípidos de membrana",
+        "Proporciona carga eléctrica negativa a la superficie celular",
+        "Se puede observar con microscopía óptica cuando se realiza la técnica del PAS",
+        "Lo forman las cadenas azucaradas de glicolípidos y glicoproteínas de la cara citosólica de la bicapa lipídica"
+      ],
+      "correcta": 3,
+      "explicacion": "El glicocáliz lo forman las cadenas azucaradas de la cara **externa/extracelular** (no citosólica).",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00008",
+      "enunciado": "La unión intercelular responsable de compartimentalizar la membrana plasmática de las células epiteliales se denomina:",
+      "opciones": [
+        "Mácula densa",
+        "Mácula comunicante",
+        "Zónula ocluyente",
+        "Zónula adherente"
+      ],
+      "correcta": 2,
+      "explicacion": "La **Zónula Ocluyente** sella el espacio entre células, impidiendo la mezcla de proteínas entre la región apical y basolateral.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00009",
+      "enunciado": "¿Cuál de los siguientes mecanismos es macrotransporte? (Versión 1)",
+      "opciones": [
+        "Transporte activo",
+        "Difusión facilitada",
+        "Transporte pasivo",
+        "Endocitosis"
+      ],
+      "correcta": 3,
+      "explicacion": "El **macrotransporte** se refiere al movimiento de grandes partículas mediante vesículas, como la **Endocitosis**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00010",
+      "enunciado": "¿Cuál de los siguientes mecanismos es macrotransporte? (Versión 2)",
+      "opciones": [
+        "Endocitosis",
+        "Antiporte",
+        "Simporte",
+        "Difusión simple"
+      ],
+      "correcta": 0,
+      "explicacion": "La **Endocitosis** es un mecanismo de macrotransporte.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00011",
+      "enunciado": "¿Cuál de los siguientes mecanismos es macrotransporte? (Versión 3)",
+      "opciones": [
+        "Aquaporinas",
+        "Exocitosis",
+        "Canal iónico",
+        "Transporte activo"
+      ],
+      "correcta": 1,
+      "explicacion": "La **Exocitosis** es un mecanismo de macrotransporte.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00012",
+      "enunciado": "Es una función de las uniones ocluyentes:",
+      "opciones": [
+        "Regulación del tráfico intracelular de moléculas",
+        "Regulación del tráfico transcelular de moléculas",
+        "Compartimentalización citoplasmática",
+        "Regulación del tráfico paracelular de moléculas"
+      ],
+      "correcta": 3,
+      "explicacion": "La función principal de las uniones ocluyentes es sellar el espacio intercelular, **regulando el tráfico paracelular**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00013",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es CORRECTA en relación con la biogénesis de la membrana plasmática?",
+      "opciones": [
+        "Las proteínas de transmembrana son insertadas en el RER",
+        "Las flippasas permiten la incorporación de lípidos desde el citosol a la membrana",
+        "Las floppasas permiten la incorporación de lípidos desde el citosol a la membrana",
+        "Las escramblasas permiten la incorporación de lípidos desde el citosol a la membrana"
+      ],
+      "correcta": 0,
+      "explicacion": "Las proteínas de transmembrana son sintetizadas e **insertadas** en el **RER**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00014",
+      "enunciado": "¿Cuál de los siguientes afirmaciones NO es un principio de la Teoría Celular?",
+      "opciones": [
+        "Toda célula proviene de otra célula preexistente",
+        "Todos los organismos están formados por una o más células",
+        "El núcleo es una estructura poco constante en las células",
+        "La célula es la unidad estructural y funcional de los seres vivos"
+      ],
+      "correcta": 2,
+      "explicacion": "El núcleo es una estructura **constante** en la mayoría de las células eucariotas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00015",
+      "enunciado": "NO es una característica de los microdominios lipídicos (rafts) la alta cantidad de:",
+      "opciones": [
+        "Esfingolípidos",
+        "Proteínas ancladas a fosfatidilinositoles",
+        "Proteínas de enlace con el citoesqueleto",
+        "Colesterol"
+      ],
+      "correcta": 2,
+      "explicacion": "Los 'rafts' son ricos en Colesterol y Esfingolípidos. Las proteínas de enlace con el citoesqueleto suelen delimitar el movimiento fuera de los rafts.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00016",
+      "enunciado": "¿Cuál de las siguientes proteínas NO se relaciona con la localización de los lípidos en las hemicapas de las membranas biológicas?",
+      "opciones": [
+        "Fosfolipasas",
+        "Flopasas",
+        "Flipasas",
+        "Escramblasas"
+      ],
+      "correcta": 0,
+      "explicacion": "Las **Fosfolipasas** son enzimas que **degradan** lípidos, no que regulan su asimetría.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00017",
+      "enunciado": "¿Cuál de las siguientes estructuras NO es una especialización de la membrana plasmática? (Versión 1)",
+      "opciones": [
+        "Sinapsis química interneuronal",
+        "Sinapsis eléctrica interneuronal",
+        "Placas densas uroteliales",
+        "Microtúbulos uroteliales"
+      ],
+      "correcta": 3,
+      "explicacion": "Los **microtúbulos** son componentes del citoesqueleto, no de la membrana.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00018",
+      "enunciado": "¿Cuál de los siguientes elementos no es una especialización de la membrana plasmática? (Versión 2)",
+      "opciones": [
+        "Estereocilios",
+        "Láminas anilladas",
+        "Desmosomas",
+        "Nanotubos tunelados intercelulares"
+      ],
+      "correcta": 1,
+      "explicacion": "Las **Láminas Anilladas** son estructuras citoplasmáticas, no de membrana.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00019",
+      "enunciado": "¿Cuál de las siguientes estructuras NO es una especialización de la membrana plasmática? (Versión 3)",
+      "opciones": [
+        "Desmosoma",
+        "Microvellosidad",
+        "Endosoma",
+        "Canal intercelular"
+      ],
+      "correcta": 2,
+      "explicacion": "El **Endosoma** es un orgánulo intracelular (vesícula).",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00020",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es CORRECTA en relación con la biogénesis de las membranas celulares? (Versión 1)",
+      "opciones": [
+        "En algunas organelas las proteínas son importadas desde el nucléolo",
+        "Los fosfoglicéridos son ensamblados en el retículo endoplasmático liso",
+        "Los esfingolípidos son ensamblados en el retículo endoplasmático liso",
+        "La síntesis de los glicolípidos se realiza en la hojilla citosólica de las cisternas del dictiosoma"
+      ],
+      "correcta": 1,
+      "explicacion": "La mayoría de los **fosfoglicéridos** se sintetizan en el **REL**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00021",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es CORRECTA en relación con la biogénesis de las membranas celulares? (Versión 2)",
+      "opciones": [
+        "Los fosfoglicéridos son ensamblados en la hojilla citosólica del retículo endoplasmático rugoso",
+        "En algunas organelas, las proteínas son importadas desde el citosol",
+        "La síntesis de los glicolípidos complejos se realiza en la hojilla citosólica de las cisternas del dictiosoma",
+        "Los esfingolípidos son ensamblados en la hojilla luminal del retículo endoplasmático liso"
+      ],
+      "correcta": 1,
+      "explicacion": "Las proteínas para organelos como mitocondrias se sintetizan en el **citosol** e importan después.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00022",
+      "enunciado": "¿Cuál de las siguientes afirmaciones in relación con la membrana plasmática es CORRECTA? (Versión 1)",
+      "opciones": [
+        "Las proteínas intrínsecas son más numerosas que las extrínsecas",
+        "Las modificaciones de los lípidos no condicionan la curvatura",
+        "El modelo de Singer y Nicolson se basa en una imagen trilaminar",
+        "Las proteínas carecen de capacidad de difusión lateral"
+      ],
+      "correcta": 2,
+      "explicacion": "El modelo de **Singer y Nicolson** explica la estructura trilaminar de la membrana observada con MET.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00023",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con la membrana plasmática es CORRECTA? (Versión 2)",
+      "opciones": [
+        "El modelo de Robertson se basa en una estructura trilaminar con microscopía electrónica de transmisión",
+        "Con las técnicas de criofractura podemos cuantificar los lípidos de membrana",
+        "Es frecuente la proporción de 50 proteínas por cada lípido",
+        "Las curvaturas ultramicroscópicas se producen por la asociación de un andamio proteico en la hojilla externa"
+      ],
+      "correcta": 0,
+      "explicacion": "El modelo de **Robertson** propuso la estructura trilaminar uniforme basada en la MET.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00024",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con la membrana plasmática es CORRECTA? (Versión 3)",
+      "opciones": [
+        "La proporción de proteínas extrínsecas suele ser mayor a la de proteínas intrínseca",
+        "Su modelo estructural es el de un mosaico, fluido y simétrico",
+        "Los microdominios lipídicos presentan una concentración baja de colesterol",
+        "Las curvaturas nanoscópicas pueden estar inducidas por proteínas de transmembrana"
+      ],
+      "correcta": 3,
+      "explicacion": "Proteínas como las BAR son clave para inducir curvaturas nanoscópicas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00025",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con la membrana plasmática es CORRECTA? (Versión 4)",
+      "opciones": [
+        "Los lípidos no intervienen en los procesos de curvatura de la membrana plasmática",
+        "Las curvaturas microscópicas se relacionan con elementos del citoesqueleto",
+        "La curvatura de la membrana se facilita por la presencia de mitocondrias",
+        "La curvatura de la membrana no es posible en células eucariotas"
+      ],
+      "correcta": 1,
+      "explicacion": "Curvaturas microscópicas como microvellosidades se estabilizan por la interacción con el **citoesqueleto**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00026",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relacion con la membrana plasmática es CORRECTA! (Versión 5)",
+      "opciones": [
+        "Los microdominios lipidicos muestran escasa cantidad de colesterol",
+        "Los glicolípidos se localizan en la hojilla citosólica de la bicapa lipídica",
+        "Los microdominios lipídicos muestran una concentración alta de esfingolípidos",
+        "El autosellado de las bicapas lipídicas es una propiedad realizada por proteínas"
+      ],
+      "correcta": 2,
+      "explicacion": "Los 'rafts' son ricos en **colesterol** y **esfingolípidos**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00027",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con las funciones de la membrana plasmática es CORRECTA?",
+      "opciones": [
+        "Las proteínas de transmembrana pueden facilitar el contacto entre células",
+        "Las principales funciones las realizan lípidos de la hojilla citosólica",
+        "Las aquaporinas están constituidas por ocho moléculas de fosfolípidos",
+        "La pinocitosis es un tipo de microtransporte"
+      ],
+      "correcta": 0,
+      "explicacion": "Moléculas de adhesión (Cadherinas e Integrinas) son proteínas de transmembrana fundamentales para el contacto.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00028",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es CIERTA en relación con el glicocáliz? (Versión 1)",
+      "opciones": [
+        "Los gangliósidos son glicolípidos sencillos",
+        "Los globósidos presentan más de un azúcar",
+        "Se localiza en la cara citosólica de la bicapa lipídica",
+        "No se puede observar con microscopía electrónica de transmisión"
+      ],
+      "correcta": 1,
+      "explicacion": "Los **globósidos** contienen dos o más azúcares unidos al grupo cerámida.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00029",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es CIERTA en relación con el glicocáliz? (Versión 2)",
+      "opciones": [
+        "No se puede observar con microscopía óptica",
+        "Lo forman las cadenas azucaradas de glicolípidos y glicoproteínas de la cara citosólica de la bicapa lipídica",
+        "Proporciona carga eléctrica negativa a la superficie celular",
+        "Los gangliósidos son glicolípidos de membrana"
+      ],
+      "correcta": 3,
+      "explicacion": "Los **gangliósidos** son glicolípidos abundantes en la membrana, especialmente en tejido nervioso.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00030",
+      "enunciado": "¿Cuál de los siguientes mecanismos NO es un macrotransporte en la membrana plasmática? (Versión 1)",
+      "opciones": [
+        "Fagocitosis",
+        "Pinocitosis",
+        "Transporte activo",
+        "Exocitosis"
+      ],
+      "correcta": 2,
+      "explicacion": "El **Transporte Activo** es un microtransporte.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00031",
+      "enunciado": "¿Cuál de los siguientes mecanismos NO es un macrotransporte en la membrana plasmática? (Versión 2)",
+      "opciones": [
+        "Endocitosis",
+        "Pinocitosis",
+        "Transporte pasivo",
+        "Exocitosis"
+      ],
+      "correcta": 2,
+      "explicacion": "El **Transporte Pasivo** es microtransporte.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00032",
+      "enunciado": "¿Cuál de las siguientes opciones NO se asocia con Aureliano Maestre de San Juan?",
+      "opciones": [
+        "Neopositivismo",
+        "Santiago Ramón y Cajal",
+        "Granada",
+        "Escuela Española de Histología"
+      ],
+      "correcta": 0,
+      "explicacion": "Se asocia con el Positivismo, pero no directamente con el Neopositivismo.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00033",
+      "enunciado": "NO es un elemento predominante en la hojilla externa de la membrana plasmática:",
+      "opciones": [
+        "Glicolípido",
+        "Esfingomielina",
+        "Fosfatidilserina",
+        "Fosfatidilcolina"
+      ],
+      "correcta": 2,
+      "explicacion": "La **Fosfatidilserina** predomina en la hojilla **citosólica**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00034",
+      "enunciado": "El grosor aproximado de la membrana plasmática es:",
+      "opciones": [
+        "$7~\\mu \\text{m}$",
+        "$0.7 \\text{ nm}$",
+        "$0.7~\\mu \\text{m}$",
+        "$7 \\text{ nm}$"
+      ],
+      "correcta": 3,
+      "explicacion": "El grosor es de unos **$7 \\text{ nm}$**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00035",
+      "enunciado": "¿Qué aportación importante a la Citología realizó Aureliano Maestre de San Juan?",
+      "opciones": [
+        "Maestro de Santiago Ramón y Cajal",
+        "Introducción de la Patología Celular en España",
+        "Descripción del lisosoma",
+        "Introducción de la Teoría Celular en España"
+      ],
+      "correcta": 3,
+      "explicacion": "Fue el principal impulsor de la Teoría Celular en España.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00036",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con los discos intercalares es INCORRECTA?",
+      "opciones": [
+        "Están constituidos por especializaciones de la membrana plasmática",
+        "Presentan uniones intercelulares adherentes y comunicantes",
+        "Las area composita son uniones intercelulares complejas",
+        "Las citoqueratinas unen los desmosomas entre sí"
+      ],
+      "correcta": 3,
+      "explicacion": "Las citoqueratinas se **anclan** a los desmosomas, no los unen entre sí directamente.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00037",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación con la biogénesis de la membrana plasmática? (Versión 1)",
+      "opciones": [
+        "Algunos componentes son adsorbidos del espacio extracelular",
+        "Las proteínas pueden ser sintetizadas en ribosomas citosólicos",
+        "Las vesículas de secreción constitutiva son las únicas vesículas que añaden membrana preformada a la membrana plasmática",
+        "El retículo endoplasmático y el aparato de Golgi son organelos fundamentales en este proceso"
+      ],
+      "correcta": 2,
+      "explicacion": "La exocitosis regulada también añade membrana.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00038",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación con la biogénesis de la membrana plasmática? (Versión 2)",
+      "opciones": [
+        "La síntesis de los glicolípidos sencillos se realiza en la hojilla citosólica de las cisternas del dictiosoma",
+        "Los glicerofosfolípidos son ensamblados en el retículo endoplasmático liso",
+        "Las vesículas de secreción añaden con la exocitosis membrana preformada a la membrana plasmática",
+        "Las proteínas extrínsecas se sintetizan en el retículo endoplasmático"
+      ],
+      "correcta": 0,
+      "explicacion": "La glicosilación se realiza en la hojilla **luminal**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00039",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación con la biogénesis de la membrana plasmática? (Versión 3)",
+      "opciones": [
+        "Las proteínas de transmembrana son insertadas en el REL",
+        "Las flippasas translocan lípidos en la membrana plasmática de la hojilla externa a la interna",
+        "Las floppasas translocan lípidos en la membrana plasmática de la hojilla interna a la externa",
+        "Las escramblasas translocan lípidos en la membrana plasmática de una forma aleatoria"
+      ],
+      "correcta": 0,
+      "explicacion": "Se insertan en el **RER**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00040",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con la técnica de centrifugación diferencial es INCORRECTA?",
+      "opciones": [
+        "Consiste en sucesivas centrifugaciones de velocidad y tiempo cada vez mayores",
+        "Se realiza sobre homogeneizados de células",
+        "Tras una centrifugación, se estudia el sedimento y se somete el sobrenadante a otra centrifugación",
+        "El elemento aislado tras la última centrifugación es el núcleo celular"
+      ],
+      "correcta": 3,
+      "explicacion": "El núcleo es el más pesado y sale en la **primera** centrifugación.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00041",
+      "enunciado": "¿Cuál de las siguientes moléculas NO aporta componentes azucarados al glicocáliz?",
+      "opciones": [
+        "Cerebrósidos",
+        "Gangliósidos",
+        "Protóxidos",
+        "Globósidos"
+      ],
+      "correcta": 2,
+      "explicacion": "Protóxidos no es un término biológico estándar para el glicocáliz.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00042",
+      "enunciado": "¿Cuál de estas equivalencias es VERDADERA?",
+      "opciones": [
+        "$1 \\text{ Å} = 10 \\text{ nm}$",
+        "$1 \\text{ nm} = 10 \\text{ Å}$",
+        "$1 \\mu \\text{m} = 10^{-6} \\text{ nm}$",
+        "$1 \\text{ nm} = 10^3 \\mu \\text{m}$"
+      ],
+      "correcta": 1,
+      "explicacion": "$1 \\text{ nm} = 10 \\text{ Å}$.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00043",
+      "enunciado": "¿La alteración de qué elemento NO afectaría inicialmente el funcionamiento de desmosomas o hemidesmosomas?",
+      "opciones": [
+        "Colágeno XVII",
+        "Citoqueratinas",
+        "Plectina",
+        "Microfilamentos de actina"
+      ],
+      "correcta": 3,
+      "explicacion": "Los desmosomas se asocian a filamentos intermedios, no a la actina.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00044",
+      "enunciado": "NO es un nivel de organización objetivo principal de la citología:",
+      "opciones": [
+        "Molécula",
+        "Átomo",
+        "Organelo",
+        "Célula"
+      ],
+      "correcta": 1,
+      "explicacion": "El estudio del átomo corresponde a la física/química.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00045",
+      "enunciado": "En la hojilla externa de la membrana plasmática es infrecuente encontrar:",
+      "opciones": [
+        "Inositolfosfolípidos",
+        "Fosfatidilcolina",
+        "Esfingomielina",
+        "Glicolípidos"
+      ],
+      "correcta": 0,
+      "explicacion": "Los **Inositolfosfolípidos** predominan en la hojilla citosólica.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00046",
+      "enunciado": "¿Cuál de estas afirmaciones es INCORRECTA?",
+      "opciones": [
+        "La fusión de células idénticas produce sincitios",
+        "Por endorreplicación se producen células gigantes poliploides mononucleadas",
+        "La fusión de células idénticas produce heterocariontes",
+        "Por endorreplicación se producen células gigantes poliploides multinucleadas"
+      ],
+      "correcta": 2,
+      "explicacion": "La fusión de células idénticas produce un sincitio; el heterocarionte requiere células diferentes.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00047",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con los canales intracelulares es INCORRECTA?",
+      "opciones": [
+        "Se relacionan con estructuras túbulo-vesiculares citoplasmáticas",
+        "Presentan mitocondrias en el citoplasma próximo",
+        "Comunican la superficie libre celular con la superficie apical",
+        "Presentan microvellosidades en su superficie"
+      ],
+      "correcta": 2,
+      "explicacion": "Comunican la superficie libre con la basal o lateral.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00048",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con la curvatura ultramicroscópica de la membrana plasmática es CORRECTA?",
+      "opciones": [
+        "Puede producirse por la asociación de proteínas BAR",
+        "Sólo son observables con microscopía óptica",
+        "La variación en la composición lipídica determina su existencia",
+        "Se asocia con elementos del citoesqueleto celular"
+      ],
+      "correcta": 0,
+      "explicacion": "Las proteínas **BAR** inducen y estabilizan curvaturas nanoscópicas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00049",
+      "enunciado": "En relación con la biogénesis de la membrana plasmática ¿Dónde se realiza la síntesis de gangliósidos?",
+      "opciones": [
+        "Hojilla luminal de la membrana del aparato de Golgi",
+        "Hojilla luminal del retículo endoplasmático liso",
+        "Hojilla citosólica de la membrana del aparato de Golgi",
+        "Hojilla citosólica del retículo endoplasmático liso"
+      ],
+      "correcta": 0,
+      "explicacion": "Se completa en la luz (hojilla **luminal**) del Golgi.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00050",
+      "enunciado": "¿Cuál es la unidad de medida más apropiada para indicar el tamaño de complejos macromoleculares como los ribosomas o los filamentos intermedios?",
+      "opciones": [
+        "Micrómetros",
+        "Nanómetros",
+        "Angstroms",
+        "Picómetros"
+      ],
+      "correcta": 1,
+      "explicacion": "Se miden apropiadamente en **Nanómetros (nm)**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00051",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con el glicocáliz es INCORRECTA?",
+      "opciones": [
+        "Aporta carga eléctrica positiva a la superficie celular",
+        "Es visible con la técnica del PAS y microscopía óptica",
+        "Es visible con rojo rutenio y microscopía electrónica de transmisión",
+        "Los gangliósidos son un tipo de glicoesfingolípidos"
+      ],
+      "correcta": 0,
+      "explicacion": "Aporta carga eléctrica **negativa**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00052",
+      "enunciado": "NO es componente de las uniones intercelulares ocluyentes:",
+      "opciones": [
+        "Queratinas",
+        "Ocludina",
+        "ZO-I, ZO-2 y ZO-3",
+        "Claudina"
+      ],
+      "correcta": 0,
+      "explicacion": "Las queratinas se asocian a desmosomas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00053",
+      "enunciado": "¿Cuál de los siguientes NO es uno de los organelos más implicados en la biogénesis de la membrana plasmática?",
+      "opciones": [
+        "Aparato de Golgi",
+        "Lisosoma",
+        "Retículo endoplasmático rugoso",
+        "Retículo endoplasmático liso"
+      ],
+      "correcta": 1,
+      "explicacion": "El lisosoma se encarga de la digestión, no de la biogénesis.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00054",
+      "enunciado": "NO es una función del glicocáliz: (Versión 1)",
+      "opciones": [
+        "Protección mecánica",
+        "Aportar carga eléctrica positiva a la superficie celular",
+        "Reconocimiento intercelular",
+        "Actividad enzimática"
+      ],
+      "correcta": 1,
+      "explicacion": "Aporta carga negativa.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00055",
+      "enunciado": "NO es una función del glicocáliz: (Versión 2)",
+      "opciones": [
+        "Transcitosis",
+        "Reconocimiento intercelular",
+        "Filtro molecular",
+        "Actividad enzimática"
+      ],
+      "correcta": 0,
+      "explicacion": "La transcitosis es un mecanismo de transporte vesicular.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00056",
+      "enunciado": "¿Cuál de las siguientes es una proteína de transmembrana de las fascias adherentes en las células musculares cardíacas?",
+      "opciones": [
+        "Plectina",
+        "Desmocolina",
+        "Desmina",
+        "Cadherina N"
+      ],
+      "correcta": 3,
+      "explicacion": "La **Cadherina N** se encuentra en los discos intercalares cardíacos.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00057",
+      "enunciado": "Son moléculas relacionadas con los contactos apicales de las microvellosidades asociadas:",
+      "opciones": [
+        "Glicolípidos",
+        "Espectrinas",
+        "Troponinas",
+        "Protocadherinas"
+      ],
+      "correcta": 3,
+      "explicacion": "Las **Protocadherinas** mantienen el espaciamiento del ribete en cepillo.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00058",
+      "enunciado": "¿Cuál de los siguientes factores NO influye de forma importante en la fluidez de la membrana plasmática?",
+      "opciones": [
+        "La concentración de colesterol",
+        "La presencia de ácidos grasos trans",
+        "La presencia de ácidos grasos insaturados",
+        "La temperatura"
+      ],
+      "correcta": 1,
+      "explicacion": "Los ácidos grasos trans no son un regulador fisiológico mayor de la fluidez.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00059",
+      "enunciado": "¿Qué es el \"ribete en cepillo\"?",
+      "opciones": [
+        "Un conjunto de microvellosidades agrupadas",
+        "Un conjunto de estereocilios",
+        "Un conjunto de desmosomas",
+        "Un conjunto de microvellosidades aisladas"
+      ],
+      "correcta": 0,
+      "explicacion": "Es un conjunto denso de **microvellosidades**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00060",
+      "enunciado": "¿Cuál fue la unidad estequiológica del cuerpo humano durante el positivismo?",
+      "opciones": [
+        "El miasma",
+        "El glóbulo",
+        "La célula",
+        "La fibra"
+      ],
+      "correcta": 3,
+      "explicacion": "La **fibra** era considerada la unidad fundamental antes de la teoría celular.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00061",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre las proteínas de las membranas celulares es INCORRECTA? (Versión 1)",
+      "opciones": [
+        "Las proteínas bitópicas presentan secuencias hidrofóbicas",
+        "Las proteínas integrales también llamadas extrínsecas son las más frecuentes",
+        "Las proteínas unidas por enlaces covalentes a lípidos son siempre intrínsecas",
+        "Las proteínas de transmembrana pueden tener capacidad de difusión lateral"
+      ],
+      "correcta": 1,
+      "explicacion": "Las integrales son **intrínsecas**; las extrínsecas son periféricas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00062",
+      "enunciado": "La unidad de membrana de Robertson se caracteriza por:",
+      "opciones": [
+        "Haber sido descrita 1959",
+        "Estar constitiuda por dos bandas omiófobas y una banda osmiófila",
+        "Estar constituida por dos bandas claras y una banda oscura",
+        "Estar constituida por una banda osmiófoba y otra banda osmiófila"
+      ],
+      "correcta": 2,
+      "explicacion": "Presenta dos bandas oscuras y una **clara** central.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00063",
+      "enunciado": "La Teoría Celular fue propuesta por: (Versión 1)",
+      "opciones": [
+        "Schwann y Schleiden",
+        "Schleiden, Virchow y Ramón y Cajal",
+        "Golgi y Ramón y Cajal",
+        "López Mateos y Ramón y Cajal"
+      ],
+      "correcta": 0,
+      "explicacion": "Propuesta inicialmente por **Schleiden y Schwann**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00064",
+      "enunciado": "La Teoría Celular fue propuesta por: (Versión 2)",
+      "opciones": [
+        "Friedrich Theodor Schwann y Matthias Jakob Schleiden",
+        "Santiago Ramón y Cajal y Xavier Bichat",
+        "Bartolomeo Camillo Emilio Golgi y Santiago Ramón y Cajal",
+        "Rudolf Ludwig Karl Virchow y Mariano López Mateos"
+      ],
+      "correcta": 0,
+      "explicacion": "Propuesta por **Schwann y Schleiden**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00065",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con las proteínas extrínsecas de la membrana plasmática es CORRECTA?",
+      "opciones": [
+        "Pueden estar unidas por enlaces NO covalentes a proteínas de la hojilla citosólica",
+        "Pueden ser de transmembrana",
+        "Pueden estar unidas por enlaces covalentes a lípidos de la hojilla citosólica",
+        "Pueden estar unidas por enlaces covalentes a lípidos de la hojilla externa"
+      ],
+      "correcta": 0,
+      "explicacion": "Se asocian mediante interacciones **débiles/no covalentes**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00066",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la membrana plasmática es INCORRECTA? (Versión 1)",
+      "opciones": [
+        "Los glicolípidos se localizan en la hojilla externa de la bicapa lipídica",
+        "Los microdominios lipídicos muestran escasas proteínas",
+        "Los microdominios lipídicos muestran gran cantidad de colesterol",
+        "El autosellado de las bicapas lipídicas es una propiedad importante"
+      ],
+      "correcta": 1,
+      "explicacion": "Los rafts concentran proteínas específicas de señalización.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00067",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la membrana plasmática es INCORRECTA? (Versión 2)",
+      "opciones": [
+        "La fosfatidilcolina se localiza fundamentalmente en la hojilla externa",
+        "La esfingomielina se localiza fundamentalmente en la hojilla interna",
+        "La fosfatidiletanolamina se localiza fundamentalmente en la hojilla interna",
+        "La fosfatidilserina se localiza fundamentalmente en la hojilla interna"
+      ],
+      "correcta": 1,
+      "explicacion": "La **Esfingomielina** predomina en la hojilla **externa**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00068",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la membrana plasmática es INCORRECTA? (Versión 3)",
+      "opciones": [
+        "La esfingomielina se localiza fundamentalmente en la hojilla externa",
+        "La fosfatidilserina se localiza fundamentalmente en la hojilla interna",
+        "La fosfatidiletanolamina se localiza fundamentalmente en la hojilla interna",
+        "La fosfatidilcolina se localiza fundamentalmente en la hojilla interna"
+      ],
+      "correcta": 3,
+      "explicacion": "La **Fosfatidilcolina** predomina en la hojilla **externa**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00069",
+      "enunciado": "Las siguientes afirmaciones sobre los lípidos de la membrana plasmática son ciertas, EXCEPTO:",
+      "opciones": [
+        "La fosfatidilserina y fosfatidiletanolamina predominan en la hojilla citosólica",
+        "Los glicolípidos se localizan en la hojilla próxima al espacio extracelular",
+        "El principal movimiento de los lípidos es el de traslocación entre hojillas",
+        "La presencia de distintos lípidos en las hojillas puede facilitar la curvatura de la membrana plasmática"
+      ],
+      "correcta": 2,
+      "explicacion": "El principal movimiento es la **difusión lateral**; el flip-flop es el más infrecuente.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00070",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con la membrana plasmática es FALSA? (Versión 2)",
+      "opciones": [
+        "El principal movimiento de los lípidos es el de traslocación entre hojillas",
+        "Presenta con microscopía electrónica una estructura trilaminar de $7 \\text{ nm}$ de grosor",
+        "La fosfatidilserina y fosfatidiletanolamina predominan en la hojilla citosólica",
+        "Las proteínas extrínsecas de la membrana son menos frecuentes que las intrínsecas"
+      ],
+      "correcta": 0,
+      "explicacion": "El movimiento principal es la difusión lateral.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00071",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con la membrana plasmática es FALSA? (Versión 3)",
+      "opciones": [
+        "La presencia de distintos lípidos en las hojillas puede facilitar la curvatura de la membrana plasmática",
+        "La fosfatidilserina y fosfatidiletanolamina predominan en la hojilla citosólica",
+        "Presenta con microscopía electrónica una estructura trilaminar de $7 \\mu \\text{m}$ de grosor",
+        "El principal movimiento de los lípidos es el de difusión lateral"
+      ],
+      "correcta": 2,
+      "explicacion": "El grosor es **$7 \\text{ nm}$**, no $7 \\mu \\text{m}$.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00072",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con la membrana plasmática es FALSA! (Versión 4)",
+      "opciones": [
+        "Los glicolípidos se localizan en la hojilla próxima al espacio extracelular",
+        "El autoensamblaje y el autosellado son propiedades de las proteínas intrínsecas",
+        "Presenta menos moléculas de proteínas que de lípidos",
+        "Las proteínas extrínsecas son menos frecuentes que las intrínsecas"
+      ],
+      "correcta": 1,
+      "explicacion": "Son propiedades de la **bicapa lipídica**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00073",
+      "enunciado": "¿Cuál de las siguientes afirmaciones en relación con la membrana plasmática es FALSA? (Versión 5)",
+      "opciones": [
+        "Las proteínas extrínsecas de la membrana son más frecuentes que las intrínsecas",
+        "Presenta con microscopía electrónica una estructura trilaminar de $7-10 \\text{ nm}$ de grosor",
+        "La presencia de distintos lípidos en las hojillas puede facilitar la curvatura de la membrana plasmática",
+        "La fosfatidilserina y fosfatidiletanolamina predominan en la hojilla interna de la membrana plasmática"
+      ],
+      "correcta": 0,
+      "explicacion": "Las **intrínsecas** suelen ser más frecuentes.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00074",
+      "enunciado": "Cuál de las siguientes es una proteína de transmembrana de las uniones adherentes?",
+      "opciones": [
+        "Vinculina",
+        "Desmocolina",
+        "Desmoplaquina",
+        "Catenina"
+      ],
+      "correcta": 1,
+      "explicacion": "La **Desmocolina** es una cadherina de transmembrana.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00075",
+      "enunciado": "Los dos grandes grupos de especializaciones de la membrana plasmática son los relacionados con:",
+      "opciones": [
+        "La superficie celular libre y la superficie celular de contacto",
+        "Las uniones entre células y las uniones con la matriz extracelular",
+        "Los canales intracelulares y canales intercelulares",
+        "Las homotípicas y las heterotípicas"
+      ],
+      "correcta": 0,
+      "explicacion": "Se clasifican por región: **libre/apical** y **contacto/lateral**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00076",
+      "enunciado": "Las funciones de la membrana plasmática NO se asocian con:",
+      "opciones": [
+        "La adhesión intercelular",
+        "El transporte de grandes moléculas",
+        "El transporte de pequeñas moléculas",
+        "La detoxificación"
+      ],
+      "correcta": 3,
+      "explicacion": "La detoxificación es función del **REL**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00077",
+      "enunciado": "¿Qué antibiótico lo relacionamos con los lípidos de la membrana por su mecanismo de acción?",
+      "opciones": [
+        "Cloranfenicol",
+        "Estreptomicina",
+        "Penicilina",
+        "Polimixina"
+      ],
+      "correcta": 3,
+      "explicacion": "Las **Polimixinas** interaccionan con los fosfolípidos bacterianos.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00078",
+      "enunciado": "NO es un lípido frecuente de la membrana plasmática:",
+      "opciones": [
+        "Esfingomielina",
+        "Fosfatidilserina",
+        "Cardiolipina",
+        "Fosfatidiletanolamina"
+      ],
+      "correcta": 2,
+      "explicacion": "La **Cardiolipina** es típica de la mitocondria interna.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00079",
+      "enunciado": "NO es una función de la membrana plasmática",
+      "opciones": [
+        "Proporcionar identidad celular",
+        "Controlar el ambiente intracelular",
+        "Facilitar la formación de contactos intercelulares",
+        "Facilitar la comunicación entre organelos"
+      ],
+      "correcta": 3,
+      "explicacion": "La comunicación entre organelos es interna, no de la membrana plasmática.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00080",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es CORRECTA en relación con las microvellosidades?",
+      "opciones": [
+        "El velo terminal ancla el eje interno de las microvellosidades al citoesqueleto celular",
+        "El eje interno está formado por microtúbulos",
+        "Los contactos entre integrinas permiten el espaciamiento constante entre los ápices",
+        "Son estructuras cilíndricas de $1~\\mu \\text{m} de diámetro$"
+      ],
+      "correcta": 0,
+      "explicacion": "El eje de actina se ancla en el **velo terminal**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00081",
+      "enunciado": "Los dos grandes grupos de especializaciones de la membrana plasmática son los relacionados con:",
+      "opciones": [
+        "La superficie celular libre y la superficie celular de contacto",
+        "Las uniones entre células y las uniones con la matriz extracelular",
+        "Los canales intracelulares y canales intercelulares",
+        "Las homotípicas y las heterotípicas"
+      ],
+      "correcta": 0,
+      "explicacion": "Superficie **libre/apical** y superficie **contacto/lateral**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00082",
+      "enunciado": "¿Cuál de estas equivalencias es INCORRECTA? (Versión 2)",
+      "opciones": [
+        "$1 \\text{ Å} = 10 \\text{ nm}$",
+        "$1 \\mu \\text{m} = 10^{-6} \\text{ m}$",
+        "$1 \\text{ nm} = 10 \\text{ Å}$",
+        "$1 \\mu \\text{m} = 10^3 \\text{ nm}$"
+      ],
+      "correcta": 0,
+      "explicacion": "$1 \\text{ Å} = 0.1 \\text{ nm}$.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00083",
+      "enunciado": "Los primeros microscopios ópticos fueron construidos alrededor del año",
+      "opciones": [
+        "1600",
+        "1400",
+        "1700",
+        "1500"
+      ],
+      "correcta": 0,
+      "explicacion": "Alrededor del año **1600**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00084",
+      "enunciado": "¿Qué autor confirmó la Teoría Celular en el tejido nervioso?",
+      "opciones": [
+        "Aureliano Maestre de San Juan",
+        "Bartolomeo Camillo Emilio Golgi",
+        "Mariano López Mateos",
+        "Santiago Ramón y Cajal"
+      ],
+      "correcta": 3,
+      "explicacion": "**Cajal** demostró la individualidad celular de las neuronas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00085",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es CORRECTA en relación con los receptores de la membrana plasmática?",
+      "opciones": [
+        "La asociación con el ligando se produce en la porción citosólica del receptor",
+        "Suelen ser fosfolípidos de la hojilla externa",
+        "El receptor suele ser una proteína de transmembrana",
+        "Suelen ser proteínas periféricas o extrínsecas"
+      ],
+      "correcta": 2,
+      "explicacion": "Suelen ser **proteínas de transmembrana**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00086",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación con las uniones comunicantes? (Versión 1)",
+      "opciones": [
+        "El espacio intercelular es de $20-50 \\text{ nm}$",
+        "El canal formado entre los conexones tiene un diámetro aproximado de $1.5 \\text{ nm}$",
+        "Les conexones están formados por seis conexinas",
+        "El canal formado entre los conexones tiene un diámetro aproximado de $1.5 \\text{ nm}$"
+      ],
+      "correcta": 0,
+      "explicacion": "El espacio se reduce a unos **$2-4 \\text{ nm}$**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00087",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación con las uniones comunicantes? (Versión 2)",
+      "opciones": [
+        "Los conexones homoméricos pueden ser homotípicos",
+        "Los conexones heterotípicos pueden ser heteroméricos",
+        "Los componentes moleculares son proteínas de transmembrana llamadas conexinas que forman complejos de ocho unidades que se denominan conexones",
+        "Los conexones entre dos células pueden ser homoméricos o heteroméricos"
+      ],
+      "correcta": 2,
+      "explicacion": "Forman complejos de **seis** subunidades.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00088",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación con las uniones comunicantes? (Versión 3)",
+      "opciones": [
+        "Los conexones establecen uniones homotípicas o heterotípicas",
+        "Los conexones están formados por seis conexinas",
+        "Los conexones, según las conexinas que los forman, pueden ser homoméricos o heteroméricos",
+        "El espacio intercelular es de $20-50 \\text{ nm}$"
+      ],
+      "correcta": 3,
+      "explicacion": "El espacio es de unos **$2-4 \\text{ nm}$**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00089",
+      "enunciado": "¿Cuál de los siguientes es un movimiento infrecuente de los lípidos de la membrana plasmática?",
+      "opciones": [
+        "Cambio de hojilla de colesterol",
+        "Difusión lateral de fosfolípido",
+        "Difusión lateral de colesterol",
+        "Cambio de hojilla de fosfolípido"
+      ],
+      "correcta": 3,
+      "explicacion": "El **flip-flop** de fosfolípidos es muy infrecuente sin enzimas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00090",
+      "enunciado": "¿Cuál de las siguientes es una proteína de enlace entre proteína de transmembrana y citoesqueleto de las uniones adherentes?",
+      "opciones": [
+        "Vinculina",
+        "ZOI",
+        "Cingulina",
+        "Nectina"
+      ],
+      "correcta": 0,
+      "explicacion": "La **Vinculina** conecta las cadherinas con los filamentos de actina.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00091",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación con la biogénesis de las membranas celulares? (Versión 1)",
+      "opciones": [
+        "Los fosfoglicéridos son ensamblados en la hojilla citosólica del REL",
+        "Las proteínas pueden ser sintetizadas en el RER",
+        "En algunas organelas las proteínas pueden ser importadas desde el citosol",
+        "Los esfingolípidos son ensamblados en el RER"
+      ],
+      "correcta": 3,
+      "explicacion": "Se completa en el **Aparato de Golgi**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00092",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación con la biogénesis de las membranas celulares? (Versión 2)",
+      "opciones": [
+        "Las proteínas pueden ser sintetizadas en ribosomas citoplasmáticos",
+        "Las proteínas intrínsecas de transmembrana son insertadas en el retículo endoplasmático rugoso",
+        "Los glicolípidos sencillos se sintetizan en la hojilla citosólica del aparato de Golgi",
+        "Los glicolípidos complejos se sintetizan en el retículo endoplasmático liso"
+      ],
+      "correcta": 2,
+      "explicacion": "Se sintetizan en la hojilla **luminal**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00093",
+      "enunciado": "Las proteínas de transmembrana son:",
+      "opciones": [
+        "Eléctricamente neutras",
+        "Extrínsecas",
+        "Periféricas",
+        "Anfifílicas"
+      ],
+      "correcta": 3,
+      "explicacion": "Poseen dominios hidrofóbicos e hidrofílicos.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00094",
+      "enunciado": "Son proteínas de transmembrana frecuentes en las uniones ocluyentes:",
+      "opciones": [
+        "Cingulina",
+        "JAMs",
+        "ZOI",
+        "Espectrina"
+      ],
+      "correcta": 1,
+      "explicacion": "Las **JAMs**, junto con Claudinas y Ocludinas, son de transmembrana.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00095",
+      "enunciado": "¿Cuál de las siguientes moléculas difícilmente puede atravesar la membrana plasmática por difusión simple?",
+      "opciones": [
+        "Etanol",
+        "Agua",
+        "Glucosa",
+        "Gases"
+      ],
+      "correcta": 2,
+      "explicacion": "La **Glucosa** es polar y grande, requiere transportadores.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00096",
+      "enunciado": "La proporción de proteínas de transmembrana y lípidos en las células nerviosas es de 5:1 (5 lípidos por cada 1 proteína)",
+      "opciones": [
+        "Falso, es de 20 a 1 (20 lípidos por cada proteína)",
+        "Falso, es de 50 a 1 (50 lípidos por cada proteína)",
+        "Verdadero, las células nerviosas son las que tienen menos cantidad de lípidos",
+        "Verdadero, las células nerviosas tienen más lípidos y por ello tienen una proporción menor"
+      ],
+      "correcta": 1,
+      "explicacion": "En neuronas es de unos **50 lípidos por cada proteína**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00097",
+      "enunciado": "¿Cuál de los siguientes factores aumenta la fluidez de la membrana plasmática?",
+      "opciones": [
+        "Altas concentraciones de colesterol",
+        "Baja temperatura",
+        "Alta concentración de ácidos grasos saturados",
+        "Alta concentración de ácidos grasos insaturados"
+      ],
+      "correcta": 3,
+      "explicacion": "Los ácidos grasos **insaturados** impiden el empaquetamiento y aumentan la fluidez.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00098",
+      "enunciado": "En un transporte activo secundario, la energía necesaria para el transporte de un segundo soluto se obtiene del:",
+      "opciones": [
+        "Gradiente electroquímico del segundo soluto",
+        "Gradiente electroquímico del primer soluto",
+        "Hidrólisis de GTP",
+        "Hidrólisis de ATP"
+      ],
+      "correcta": 1,
+      "explicacion": "Utiliza el gradiente del primer soluto (ej. Na+).",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00099",
+      "enunciado": "Una proteína que atraviesa la membrana plasmática una sola vez (unipaso) con el grupo amino terminal en el citosol se llama:",
+      "opciones": [
+        "Proteína de transmembrana de tipo II",
+        "Proteína de transmembrana de tipo I",
+        "Proteína de transmembrana de tipo III",
+        "Proteína de transmembrana de tipo IV"
+      ],
+      "correcta": 0,
+      "explicacion": "Tipo II: N-terminal citosólico, unipaso.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00100",
+      "enunciado": "¿Qué nombre reciben las uniones adherentes que se asocian con los microfilamentos de actina?",
+      "opciones": [
+        "Desmosomas",
+        "Hemidesmosomas",
+        "Uniones comunicantes",
+        "Uniones adherentes tipo zónula adherente"
+      ],
+      "correcta": 3,
+      "explicacion": "La **Zónula Adherente** se asocia a la actina.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00101",
+      "enunciado": "El mecanismo de transporte celular de la bomba de sodio-potasio es un:",
+      "opciones": [
+        "Transporte activo secundario",
+        "Transporte activo primario",
+        "Difusión facilitada por canal iónico",
+        "Difusión simple"
+      ],
+      "correcta": 1,
+      "explicacion": "Usa directamente hidrólisis de ATP.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00102",
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la fosfatidilserina es FALSA?",
+      "opciones": [
+        "Es un fosfolípido neutro",
+        "Predomina en la hojilla citosólica",
+        "Presenta carga negativa",
+        "Su exposición en la cara externa de la membrana plasmática es una señal de apoptosis"
+      ],
+      "correcta": 0,
+      "explicacion": "Tiene **carga negativa**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00103",
+      "enunciado": "¿Cuál de los siguientes órganos posee una proporción de lípidos en la membrana de 80/20?",
+      "opciones": [
+        "Hígado",
+        "Vaina de Mielina",
+        "Glóbulos rojos",
+        "Neurona"
+      ],
+      "correcta": 1,
+      "explicacion": "La **Vaina de Mielina** es excepcionalmente rica en lípidos.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00104",
+      "enunciado": "¿Cuál de las siguientes uniones intercelulares NO se asocia con filamentos intermedios?",
+      "opciones": [
+        "Zónula adherente",
+        "Hemidesmosoma",
+        "Desmosoma",
+        "Desmosoma puntiforme"
+      ],
+      "correcta": 0,
+      "explicacion": "Se asocia con **actina**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00105",
+      "enunciado": "En la membrana plasmática, ¿cuál es la orientación de las proteínas integrales de transmembrana?",
+      "opciones": [
+        "Son simétricas, con la misma estructura en la cara citosólica que en la hojilla externa",
+        "Son asimétricas, con una estructura diferente en la cara citosólica que en la hojilla externa",
+        "Están orientadas de forma perpendicular a la bicapa lipídica",
+        "Siempre atraviesan la membrana en un único sentido"
+      ],
+      "correcta": 1,
+      "explicacion": "Presentan **asimetría** estructural crucial para su función.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00106",
+      "enunciado": "Las proteínas extrínsecas o periféricas de la membrana plasmática se unen a esta por:",
+      "opciones": [
+        "Interacciones iónicas o puentes de hidrógeno",
+        "Interacciones covalentes con lípidos",
+        "Interacciones covalentes con proteínas",
+        "Interacciones exclusivamente hidrofóbicas"
+      ],
+      "correcta": 0,
+      "explicacion": "Interacciones **débiles/no covalentes**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00107",
+      "enunciado": "El factor limitante de la difusión simple a través de la membrana plasmática es:",
+      "opciones": [
+        "El gradiente de concentración de la sustancia",
+        "La hidrofobicidad o liposolubilidad de la sustancia",
+        "La concentración de proteínas integrales de la membrana",
+        "La temperatura"
+      ],
+      "correcta": 1,
+      "explicacion": "Su propia **hidrofobicidad** determina si puede cruzar la bicapa.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00108",
+      "enunciado": "¿Qué tipo de transporte necesita de una proteína transportadora, se realiza a favor de gradiente de concentración y NO necesita energía?",
+      "opciones": [
+        "Transporte activo primario",
+        "Transporte activo secundario",
+        "Difusión simple",
+        "Difusión facilitada"
+      ],
+      "correcta": 3,
+      "explicacion": "La **Difusión Facilitada** es pasiva y requiere transportador.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00109",
+      "enunciado": "En las uniones comunicantes o 'gap junctions', las conexinas forman estructuras que se denominan:",
+      "opciones": [
+        "Sinaptotagminas",
+        "Conexones",
+        "Canales iónicos",
+        "Conectinas"
+      ],
+      "correcta": 1,
+      "explicacion": "Se ensamblan formando **conexones**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00110",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es CORRECTA sobre el colesterol en la membrana plasmática?",
+      "opciones": [
+        "Disminuye la fluidez a altas temperaturas",
+        "Aumenta la fluidez a bajas temperaturas",
+        "Disminuye la permeabilidad a moléculas pequeñas",
+        "Todas las anteriores son ciertas"
+      ],
+      "correcta": 3,
+      "explicacion": "Tiene un efecto modulador complejo sobre fluidez y permeabilidad.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00111",
+      "enunciado": "La función principal de los desmosomas y hemidesmosomas es:",
+      "opciones": [
+        "Unión intercelular mediante canales",
+        "Sellar el espacio intercelular (unión ocluyente)",
+        "Anclaje de la célula al citoesqueleto y a la matriz extracelular (unión adherente)",
+        "Compartimentalización de la membrana plasmática"
+      ],
+      "correcta": 2,
+      "explicacion": "Son uniones de **anclaje** mecánico.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00112",
+      "enunciado": "La enzima que transloca los fosfolípidos recién sintetizados desde la hojilla citosólica a la hojilla luminal del Retículo Endoplasmático se denomina:",
+      "opciones": [
+        "Floppasa",
+        "Flipasa",
+        "Escramblasa",
+        "Fosfolipasa"
+      ],
+      "correcta": 2,
+      "explicacion": "La **Escramblasa** del REL transfiere lípidos aleatoriamente.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00113",
+      "enunciado": "El transporte de sodio y glucosa desde el lumen intestinal hacia el interior de la célula epitelial es un ejemplo de:",
+      "opciones": [
+        "Transporte activo primario",
+        "Difusión simple",
+        "Simporte (Cotransporte) de transporte activo secundario",
+        "Antiporte (Contratransporte) de transporte activo secundario"
+      ],
+      "correcta": 2,
+      "explicacion": "Es un **Simporte** de transporte activo secundario.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00114",
+      "enunciado": "El movimiento que ocurre cuando un fosfolípido cambia de hojilla de la membrana se llama:",
+      "opciones": [
+        "Traslocación o Flip-Flop",
+        "Difusión lateral",
+        "Rotación",
+        "Flexión o flexión de colas"
+      ],
+      "correcta": 0,
+      "explicacion": "Se llama **Flip-Flop**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00115",
+      "enunciado": "¿Qué tipo de proteínas de transmembrana se unen covalentemente a lípidos (ej. GPI-ancladas o aciladas)?",
+      "opciones": [
+        "Extrínsecas",
+        "Periféricas",
+        "Asociadas",
+        "Integrales"
+      ],
+      "correcta": 3,
+      "explicacion": "Se consideran **Integrales** por su fuerte unión covalente.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00116",
+      "enunciado": "¿Cuál es la función principal de la proteína Fimbrina en el eje interno de una microvellosidad?",
+      "opciones": [
+        "Unir las microvellosidades entre sí",
+        "Anclar los microtúbulos al velo terminal",
+        "Estabilizar la membrana plasmática del eje interno",
+        "Crear puentes de unión entre los filamentos de actina"
+      ],
+      "correcta": 3,
+      "explicacion": "Organiza los filamentos de **actina** en haces paralelos rígidos.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00117",
+      "enunciado": "La membrana plasmática de los eritrocitos es notablemente estable debido a una red de citoesqueleto subyacente compuesta principalmente por:",
+      "opciones": [
+        "Microtúbulos",
+        "Filamentos de queratina",
+        "Filamentos de actina y espectrina",
+        "Filamentos de vimentina"
+      ],
+      "correcta": 2,
+      "explicacion": "La red de **Espectrina** y actina mantiene su estabilidad.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00118",
+      "enunciado": "¿Cuál de las siguientes es una característica de la membrana plasmática?",
+      "opciones": [
+        "Asimetría de lípidos y proteínas",
+        "Simetría estructural a nivel molecular",
+        "Baja fluidez por la alta concentración de lípidos insaturados",
+        "Inmovilidad de las proteínas de transmembrana"
+      ],
+      "correcta": 0,
+      "explicacion": "Presenta una marcada **asimetría**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00119",
+      "enunciado": "El movimiento de agua a través de la membrana plasmática a favor de gradiente de concentración (osmosis) se realiza principalmente a través de:",
+      "opciones": [
+        "Bomba de sodio-potasio",
+        "Canales iónicos de potasio",
+        "Aquaporinas",
+        "Difusión simple a través de la bicapa"
+      ],
+      "correcta": 2,
+      "explicacion": "Se produce a través de las **Aquaporinas**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00120",
+      "enunciado": "Las plaquetas activadas exponen en su superficie el fosfolípido que en condiciones normales se encuentra en la hojilla citosólica. ¿Cuál es este fosfolípido?",
+      "opciones": [
+        "Esfingomielina",
+        "Fosfatidilcolina",
+        "Fosfatidilserina",
+        "Cardiolipina"
+      ],
+      "correcta": 2,
+      "explicacion": "La **Fosfatidilserina** actúa como señal de coagulación.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00121",
+      "enunciado": "El modelo de mosaico fluido de Singer y Nicolson (1972) se basa en el estudio de las membranas con la técnica de:",
+      "opciones": [
+        "Microscopía óptica con tinciones específicas",
+        "Criofractura y microscopía electrónica de transmisión",
+        "Técnicas de inmunofluorescencia y FRAP",
+        "Cromatografía de lípidos"
+      ],
+      "correcta": 1,
+      "explicacion": "Se consolidó gracias a la **Criofractura**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00122",
+      "enunciado": "En el transporte activo primario, la energía para mover un soluto contra su gradiente se obtiene directamente de:",
+      "opciones": [
+        "La hidrólisis de ATP",
+        "La hidrólisis de GTP",
+        "Un gradiente de concentración de otro soluto",
+        "La energía de la luz"
+      ],
+      "correcta": 0,
+      "explicacion": "Usa directamente la **hidrólisis de ATP**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00123",
+      "enunciado": "¿Cuál de las siguientes proteínas permite que los lípidos sintetizados en el REL se muevan de forma aleatoria y no direccional entre las dos hojillas?",
+      "opciones": [
+        "Flipasa",
+        "Floppasa",
+        "Escramblasa",
+        "Esfingomielinasa"
+      ],
+      "correcta": 2,
+      "explicacion": "La **Escramblasa** permite este crecimiento simétrico.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00124",
+      "enunciado": "El transporte en el que dos solutos se mueven en direcciones opuestas utilizando la energía del gradiente de uno de ellos se denomina:",
+      "opciones": [
+        "Simporte",
+        "Uniporte",
+        "Antiporte",
+        "Difusión facilitada"
+      ],
+      "correcta": 2,
+      "explicacion": "Se denomina **Antiporte**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00125",
+      "enunciado": "¿Cuál de las siguientes NO es una proteína de transmembrana de las uniones ocluyentes?",
+      "opciones": [
+        "Cingulina",
+        "Ocludina",
+        "Claudina",
+        "JAMs"
+      ],
+      "correcta": 0,
+      "explicacion": "La **Cingulina** es una proteína de placa, periférica.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00126",
+      "enunciado": "Los desmosomas puntiformes (máculas adherentes) unen las células a través de proteínas de adhesión de la superfamilia de las:",
+      "opciones": [
+        "Integrinas",
+        "Selectinas",
+        "Inmunoglobulinas",
+        "Cadherinas"
+      ],
+      "correcta": 3,
+      "explicacion": "Utilizan **Cadherinas** especializadas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00127",
+      "enunciado": "¿Qué tipo de microscopía se utiliza para resolver estructuras ultrafinas como la bicapa lipídica o las proteínas de transmembrana?",
+      "opciones": [
+        "Microscopía óptica de campo claro",
+        "Microscopía de contraste de fases",
+        "Microscopía electrónica de transmisión (MET)",
+        "Microscopía de fluorescencia"
+      ],
+      "correcta": 2,
+      "explicacion": "Se requiere **MET** para ver estructuras nanométricas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00128",
+      "enunciado": "El glicocáliz es especialmente rico en:",
+      "opciones": [
+        "Ácidos nucleicos",
+        "Lípidos neutros",
+        "Cadenas azucaradas de glicoproteínas y glicolípidos",
+        "Colesterol"
+      ],
+      "correcta": 2,
+      "explicacion": "Formado por las porciones glucídicas externas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00129",
+      "enunciado": "¿Cuál de las siguientes NO es una especialización de la superficie celular libre (apical)?",
+      "opciones": [
+        "Cilios",
+        "Estereocilios",
+        "Uniones comunicantes",
+        "Microvellosidades"
+      ],
+      "correcta": 2,
+      "explicacion": "Son especializaciones de la superficie **lateral**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00130",
+      "enunciado": "La técnica de FRAP (Fluorescence Recovery After Photobleaching) se utiliza para medir la:",
+      "opciones": [
+        "Composición de lípidos de la membrana",
+        "Velocidad de síntesis de proteínas",
+        "Difusión lateral de lípidos y proteínas en la membrana",
+        "Grosor de la bicapa lipídica"
+      ],
+      "correcta": 2,
+      "explicacion": "Mide la **difusión lateral** y fluidez.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00131",
+      "enunciado": "¿Qué proceso celular se inicia con la exposición de la Fosfatidilserina en la hojilla externa de la membrana plasmática?",
+      "opciones": [
+        "División celular (mitosis)",
+        "Señal de muerte celular (apoptosis)",
+        "Síntesis de proteínas",
+        "Endocitosis mediada por receptor"
+      ],
+      "correcta": 1,
+      "explicacion": "Es una señal clave de **Apoptosis**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00132",
+      "enunciado": "La proporción lípido/proteína en la membrana plasmática de la mayoría de las células eucariotas suele ser, en peso, aproximadamente:",
+      "opciones": [
+        "50% Lípidos / 50% Proteínas",
+        "80% Lípidos / 20% Proteínas",
+        "20% Lípidos / 80% Proteínas",
+        "90% Lípidos / 10% Proteínas"
+      ],
+      "correcta": 0,
+      "explicacion": "Suele ser aproximadamente **50/50 en peso**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00133",
+      "enunciado": "En las uniones comunicantes, ¿cómo se denominan los canales formados por el ensamblaje de 6 conexinas?",
+      "opciones": [
+        "Conectones",
+        "Conexones",
+        "Acuaporinas",
+        "Conexomas"
+      ],
+      "correcta": 1,
+      "explicacion": "Se denominan **conexones**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00134",
+      "enunciado": "Las proteínas que se encuentran ancladas a la membrana por enlaces covalentes a un glucofosfatidilinositol (GPI) se localizan en la hojilla:",
+      "opciones": [
+        "Citosólica",
+        "Interna",
+        "Externa",
+        "Luminal del REL"
+      ],
+      "correcta": 2,
+      "explicacion": "Se localizan exclusivamente en la hojilla **externa**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00135",
+      "enunciado": "¿Cuál de las siguientes proteínas no está directamente implicada en la regulación de la asimetría lipídica de la membrana plasmática?",
+      "opciones": [
+        "Flipasa",
+        "Escramblasa",
+        "Fosfolipasa",
+        "Floppasa"
+      ],
+      "correcta": 2,
+      "explicacion": "La **Fosfolipasa** degrada lípidos, no regula asimetría.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00136",
+      "enunciado": "El transporte en el que una proteína transportadora mueve un solo soluto a favor de su gradiente se denomina:",
+      "opciones": [
+        "Simporte",
+        "Antiporte",
+        "Uniporte",
+        "Transporte activo"
+      ],
+      "correcta": 2,
+      "explicacion": "Se denomina **Uniporte**.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00137",
+      "enunciado": "¿Qué tipo de uniones intercelulares se caracterizan por ser permeables a moléculas pequeñas ($<1.5 \\text{ nm}$) como iones y AMP cíclico?",
+      "opciones": [
+        "Uniones ocluyentes",
+        "Desmosomas",
+        "Uniones comunicantes",
+        "Zónulas adherentes"
+      ],
+      "correcta": 2,
+      "explicacion": "Las **Uniones Comunicantes** permiten el paso de moléculas pequeñas.",
+      "imagen": null,
+      "año": 2024
+    },
+    {
+      "id": "universidad_citologiaHerenciaDesarrolloHumano_00138",
+      "enunciado": "La técnica de criofractura (freeze-fracture) se utiliza para visualizar:",
+      "opciones": [
+        "La composición de lípidos de las membranas",
+        "Las proteínas de transmembrana incrustadas en el plano de la bicapa",
+        "La distribución de glúcidos en el glicocáliz",
+        "El grosor total de la membrana plasmática en sección"
+      ],
+      "correcta": 1,
+      "explicacion": "Expone las proteínas integrales incrustadas en la bicapa.",
+      "imagen": null,
+      "año": 2024
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "metadata": {
+    "tipo": "UNIVERSIDAD",
+    "asignatura": "Fisiología General",
+    "curso": "1º",
+    "cuatrimestre": "1º",
+    "universidad": "UGR",
+    "ultima_revision": "2025-02-24"
+  },
+  "preguntas": [
+    {
+      "id": "universidad_fisiologiaGeneral_00001",
+      "enunciado": "Señala la respuesta correcta:",
+      "opciones": [
+        "La presión arterial aumenta con el consumo de potasio",
+        "La presión arterial aumenta con el consumo de sodio",
+        "El balance entre sodio y potasio es fundamental para impedir el aumento de la presión arterial inducido por el sodio",
+        "B y C son correctas"
+      ],
+      "correcta": 3,
+      "explicacion": "El sodio retiene agua, aumentando la volemia y la presión arterial. El potasio tiene un efecto natriurético (ayuda a excretar sodio) y vasodilatador, contrarrestando el efecto hipertensivo del sodio.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00002",
+      "enunciado": "Es falso que la hipertensión puede producir:",
+      "opciones": [
+        "Infarto de miocardio",
+        "Hemorragia cerebral",
+        "Daño renal",
+        "Aumento del retorno venoso"
+      ],
+      "correcta": 3,
+      "explicacion": "La hipertensión aumenta la poscarga (resistencia), lo que dificulta el bombeo cardiaco y daña órganos diana (riñón, cerebro, corazón). No aumenta el retorno venoso; de hecho, si provoca insuficiencia cardiaca, puede causar congestión.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00003",
+      "enunciado": "La escotadura diclótica se corresponde con:",
+      "opciones": [
+        "Salida de sangre durante la sístole",
+        "Retroceso de sangre hacia la válvula semilunar aórtica",
+        "Distensión del ventrículo",
+        "Distensión de la aorta"
+      ],
+      "correcta": 1,
+      "explicacion": "La incisura o escotadura dícrota en la curva de presión aórtica marca el cierre de la válvula aórtica, producido por un breve reflujo de sangre hacia el ventrículo justo antes de que las valvas se cierren completamente.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00004",
+      "enunciado": "El trazado electrocardiográfico de un paciente que se encuentra en ritmo sinusal:",
+      "opciones": [
+        "La onda P refiere a la repolarización de las aurículas",
+        "El complejo QRS indica la repolarización ventricular",
+        "La onda T refiere a la hiperpolarización ventricular",
+        "Todas son incorrectas"
+      ],
+      "correcta": 3,
+      "explicacion": "Todas son falsas: La onda P es despolarización auricular; el QRS es despolarización ventricular; la onda T es repolarización ventricular.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00005",
+      "enunciado": "En relación a las derivaciones cardiacas (indique la respuesta incorrecta):",
+      "opciones": [
+        "Las derivaciones precordiales (V1-V6) son obtenidas en el plano frontal",
+        "Las derivaciones I, II y III son bipolares",
+        "Utilizando 10 electrodos puedo obtener un total de 12 derivaciones",
+        "En ritmo sinusal, el complejo QRS es positivo en AvF"
+      ],
+      "correcta": 0,
+      "explicacion": "Las derivaciones precordiales (V1 a V6) observan el corazón en el plano horizontal o transversal. Las derivaciones de los miembros son las que miran el plano frontal.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00006",
+      "enunciado": "Si observo la onda R de mayor voltaje en la derivación II, puedo concluir que el eje eléctrico del corazón:",
+      "opciones": [
+        "Es normal",
+        "Está desviado hacia la izquierda",
+        "Está desviado hacia la derecha",
+        "Tiene una desviación extrema"
+      ],
+      "correcta": 0,
+      "explicacion": "La derivación II se sitúa a +60º. Si el QRS es máximo ahí, el eje se acerca a +60º, lo cual está dentro del rango normal (de -30º a +90º).",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00007",
+      "enunciado": "En espirometría un patrón obstructivo se caracteriza por:",
+      "opciones": [
+        "Aumento de la resistencia de las vías aéreas",
+        "Curva flujo/volumen cóncava en su parte media",
+        "FVC menor de 0,8",
+        "Las respuestas a y b son correctas"
+      ],
+      "correcta": 3,
+      "explicacion": "La obstrucción (como en asma o EPOC) aumenta la resistencia. Esto provoca una caída rápida del flujo espiratorio, haciendo que la curva flujo-volumen tenga una forma cóncava característica.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00008",
+      "enunciado": "La prueba broncodilatadora en espirometría:",
+      "opciones": [
+        "Se realiza siempre que se evalúa la función pulmonar",
+        "Es positiva siempre que el FEV1 aumente más de 200 ml y represente más del 12% del valor basal",
+        "Una respuesta positiva sugiere patrón restrictivo",
+        "Una respuesta positiva sugiere patrón mixto"
+      ],
+      "correcta": 1,
+      "explicacion": "Estos son los criterios estandarizados (GOLD/ATS) para considerar que existe reversibilidad de la obstrucción (típico del asma).",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00009",
+      "enunciado": "¿Cuál de las siguientes no es una indicación para el procedimiento de la espirometría?",
+      "opciones": [
+        "No fumar horas previas",
+        "No utilizar broncodilatadores horas antes",
+        "No usar prendas ajustadas",
+        "Realizar ejercicio físico antes de realizar la prueba"
+      ],
+      "correcta": 3,
+      "explicacion": "El paciente debe estar en reposo. El ejercicio físico alteraría la frecuencia respiratoria y los volúmenes basales, por lo que está contraindicado justo antes de la prueba.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00010",
+      "enunciado": "¿Qué problema respiratorio indica una presión parcial de O2 de 160 mmHg y 0 de CO2 en el alveolo?",
+      "opciones": [
+        "Edema pulmonar",
+        "Embolia pulmonar",
+        "Obstrucción bronquial",
+        "Encharcamiento alveolar"
+      ],
+      "correcta": 1,
+      "explicacion": "Estos valores (alto O2, nulo CO2) indican que el aire entra al alveolo pero no hay intercambio sanguíneo (espacio muerto alveolar). Esto es típico del tromboembolismo pulmonar (TEP).",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00011",
+      "enunciado": "Qué músculos no utilizamos en la inspiración.",
+      "opciones": [
+        "Diafragma",
+        "Esternocleidomastoideo",
+        "Escalenos",
+        "Intercostales internos"
+      ],
+      "correcta": 3,
+      "explicacion": "El diafragma es el principal músculo inspiratorio. SCM y escalenos son accesorios de la inspiración. Los intercostales internos se usan para la espiración forzada.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00012",
+      "enunciado": "Uno de los siguientes factores no aumenta la resistencia de la vía aérea",
+      "opciones": [
+        "Moco",
+        "Edema",
+        "Densidad del aire",
+        "Estimulación simpática"
+      ],
+      "correcta": 3,
+      "explicacion": "La estimulación simpática activa los receptores beta-2 adrenérgicos produciendo broncodilatación, lo cual disminuye la resistencia aérea. Moco y edema reducen la luz bronquial, aumentando la resistencia.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00013",
+      "enunciado": "Qué efecto no produce el surfactante pulmonar",
+      "opciones": [
+        "Disminuye la resistencia vascular pulmonar",
+        "Estabiliza el tamaño alveolar",
+        "Evita el encharcamiento",
+        "Evita el colapso alveolar"
+      ],
+      "correcta": 0,
+      "explicacion": "El surfactante disminuye la tensión superficial alveolar, evitando el colapso (atelectasia) y el edema (encharcamiento). No tiene acción directa sobre la resistencia de los vasos sanguíneos.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00014",
+      "enunciado": "Cuál de estas opciones aumenta la afinidad de la hemoglobina por el oxígeno",
+      "opciones": [
+        "Aumento del pH",
+        "Aumento de la PP de CO2",
+        "Aumento de temperatura",
+        "Aumento de 2-3 difosfoglicerato"
+      ],
+      "correcta": 0,
+      "explicacion": "El aumento del pH (alcalosis) desplaza la curva de disociación de la Hb a la izquierda (Efecto Bohr inverso), aumentando la afinidad.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00015",
+      "enunciado": "El CO2 no se puede transportar en la sangre:",
+      "opciones": [
+        "Unido a hemoglobina",
+        "Disuelto en plasma",
+        "En forma de bicarbonato",
+        "Unido a proteínas plasmáticas"
+      ],
+      "correcta": 3,
+      "explicacion": "El CO2 viaja mayoritariamente como bicarbonato, unido a la hemoglobina o disuelto. Su unión inespecífica a proteínas plasmáticas no es una vía de transporte significativa.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00016",
+      "enunciado": "El estímulo primordial para los quimiorreceptores periféricos es:",
+      "opciones": [
+        "Baja presión parcial de CO2",
+        "Baja concentración de H+",
+        "Baja presión parcial de O2",
+        "Alta presión parcial de CO2"
+      ],
+      "correcta": 2,
+      "explicacion": "Los cuerpos carotídeos y aórticos (periféricos) son los únicos que detectan la hipoxemia (baja PO2).",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00017",
+      "enunciado": "El estímulo final en el LCR para los quimiorreceptores centrales es:",
+      "opciones": [
+        "Aumento de PO2",
+        "Aumento de PCO2",
+        "Aumento de H+",
+        "Aumento de HCO3-"
+      ],
+      "correcta": 2,
+      "explicacion": "El CO2 cruza la barrera hematoencefálica y se convierte en H+ y HCO3-. Son los iones Hidrógeno (H+) los que estimulan directamente los quimiorreceptores centrales.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00018",
+      "enunciado": "Uno de los siguientes factores no es un mecanismo compensador de la hipoxia-hipóxica.",
+      "opciones": [
+        "Hipopnea",
+        "Poliglobulia",
+        "Aumento del gasto cardíaco",
+        "Aumento de actividad simpática"
+      ],
+      "correcta": 0,
+      "explicacion": "Ante la falta de oxígeno, el cuerpo responde con hiperventilación para captar más aire, no con hipopnea, que empeoraría el cuadro.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00019",
+      "enunciado": "¿Qué mecanismo mueve el oxígeno desde alvéolos a sangre?",
+      "opciones": [
+        "Transporte activo",
+        "Transporte activo secundario",
+        "Difusión facilitada",
+        "Difusión pasiva"
+      ],
+      "correcta": 3,
+      "explicacion": "El intercambio de gases ocurre exclusivamente por difusión simple (pasiva) siguiendo gradientes de presión parcial.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00020",
+      "enunciado": "Factor limitante al respirar por una tubería a más de 1 m de profundidad:",
+      "opciones": [
+        "Aumento del espacio muerto",
+        "Dificultad de expansión torácica",
+        "Aumento de resistencia aérea",
+        "Todo lo anterior"
+      ],
+      "correcta": 3,
+      "explicacion": "Respirar por un tubo largo aumenta el espacio muerto y la resistencia. Además, la presión hidrostática del agua sobre el tórax impide la expansión muscular inspiratoria.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00021",
+      "enunciado": "No es cierto respecto al reflejo alveolo-capilar:",
+      "opciones": [
+        "Aumenta el flujo en el vértice",
+        "Se produce vasoconstricción en alvéolos bien ventilados",
+        "Reduce el flujo en bases",
+        "Produce vasoconstricción en alvéolos poco ventilados"
+      ],
+      "correcta": 1,
+      "explicacion": "El reflejo de vasoconstricción hipóxica ocurre en zonas MAL ventiladas para desviar la sangre a zonas bien ventiladas.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00022",
+      "enunciado": "El riñón aumenta la diuresis:",
+      "opciones": [
+        "Cuando disminuye la presión arterial",
+        "Cuando aumenta la angiotensina II",
+        "Cuando aumenta la presión arterial",
+        "Cuando se activa la ADH"
+      ],
+      "correcta": 2,
+      "explicacion": "Este fenómeno se conoce como 'diuresis por presión'. Un aumento de la presión arterial incrementa la excreción de sodio y agua.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00023",
+      "enunciado": "Un aumento de ingesta de sal y agua, aumenta la excreción porque:",
+      "opciones": [
+        "Se activa el péptido natriurético auricular",
+        "Aumenta la renina",
+        "Aumenta la aldosterona",
+        "Todo es correcto"
+      ],
+      "correcta": 0,
+      "explicacion": "La sobrecarga de volumen distiende las aurículas, liberando Péptido Natriurético Auricular (ANP), el cual promueve la pérdida de sodio y agua.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00024",
+      "enunciado": "Qué no ocurre en exceso de ingesta de agua:",
+      "opciones": [
+        "Aumenta la aldosterona",
+        "Aumenta el volumen auricular",
+        "Se elimina orina diluida",
+        "Se frena producción de ADH"
+      ],
+      "correcta": 0,
+      "explicacion": "El exceso de agua provoca aumento de volumen e inhibe la ADH. No hay estímulo para aumentar la aldosterona, que retiene sodio.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00025",
+      "enunciado": "El filtrado glomerular está favorecido por:",
+      "opciones": [
+        "Aumento de la presión capilar",
+        "Disminución de la presión arterial",
+        "Aumento presión oncótica del plasma",
+        "Aumento presión hidrostática de Bowman"
+      ],
+      "correcta": 0,
+      "explicacion": "La presión hidrostática capilar glomerular es la principal fuerza que empuja el líquido hacia la cápsula de Bowman.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00026",
+      "enunciado": "La reabsorción de glucosa se produce exclusivamente en:",
+      "opciones": [
+        "Rama descendente de Henle",
+        "Túbulo proximal",
+        "Túbulo distal",
+        "Tubo colector"
+      ],
+      "correcta": 1,
+      "explicacion": "El 100% de la glucosa filtrada se reabsorbe en el túbulo contorneado proximal mediante cotransportadores SGLT.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00027",
+      "enunciado": "Cuando aumenta la ingesta de sal, no se produce:",
+      "opciones": [
+        "Disminución renina",
+        "Aumento volumen sanguíneo",
+        "Aumento angiotensina II",
+        "Aumento ADH"
+      ],
+      "correcta": 2,
+      "explicacion": "El aumento de sal y volumen inhibe la liberación de renina y disminuye la producción de Angiotensina II y Aldosterona.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00028",
+      "enunciado": "Uno de los siguientes compuestos no lo produce el riñón:",
+      "opciones": [
+        "Eritrogenina",
+        "Vasopresina",
+        "Renina",
+        "Lípidos renales antihipertensivos"
+      ],
+      "correcta": 1,
+      "explicacion": "La vasopresina (ADH) se produce en el hipotálamo y se libera en la neurohipófisis. El riñón solo es el órgano diana.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00029",
+      "enunciado": "Dónde encontramos el intercambiador sodio-protón:",
+      "opciones": [
+        "Túbulo proximal",
+        "Rama gruesa de Henle",
+        "Túbulo distal",
+        "a y b"
+      ],
+      "correcta": 3,
+      "explicacion": "El intercambiador NHE3 (Na+/H+) es fundamental en el túbulo proximal y en la rama ascendente gruesa de Henle.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00030",
+      "enunciado": "Es falso que ante acidosis:",
+      "opciones": [
+        "Se activa metabolismo renal de glutamina",
+        "Aumenta producción de NH3",
+        "Se activan células intercalares A",
+        "Se activan células intercalares B"
+      ],
+      "correcta": 3,
+      "explicacion": "Las células intercalares tipo B secretan bicarbonato y se activan en alcalosis. En acidosis, se activan las tipo A.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00031",
+      "enunciado": "La mayor reabsorción de fosfato se produce en:",
+      "opciones": [
+        "Túbulo proximal",
+        "Asa de Henle",
+        "Túbulo distal",
+        "Tubo colector"
+      ],
+      "correcta": 0,
+      "explicacion": "Más del 80% del fosfato filtrado se reabsorbe en el túbulo proximal mediante cotransportadores Na/P.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00032",
+      "enunciado": "La reabsorción de calcio en túbulo distal depende de todos excepto uno:",
+      "opciones": [
+        "Canal de calcio luminal",
+        "Ca-ATPasa",
+        "Calbindina",
+        "Receptor de calcio basal"
+      ],
+      "correcta": 3,
+      "explicacion": "La reabsorción activa implica el canal TRPV5, Calbindina y la bomba Ca-ATPasa. El receptor de calcio (CaSR) es regulador, no parte de la maquinaria de transporte.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00033",
+      "enunciado": "Mecanismos que impiden litogénesis cuando aumenta Ca en colector. Uno es incorrecto:",
+      "opciones": [
+        "Bloqueo de aquaporina 2",
+        "Aumenta diuresis",
+        "Aumenta natriuresis",
+        "Se activa la bomba de protones"
+      ],
+      "correcta": 3,
+      "explicacion": "La activación del sensor de calcio diluye la orina para evitar precipitación. Acidificar la orina suele ser una respuesta diferente o no directamente preventiva en este contexto.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00034",
+      "enunciado": "Indicar qué factor no interviene en regulación aguda del potasio:",
+      "opciones": [
+        "Insulina",
+        "Angiotensina II",
+        "Aldosterona",
+        "Adrenalina"
+      ],
+      "correcta": 1,
+      "explicacion": "Insulina, Adrenalina y Aldosterona meten K+ en la célula rápidamente. La Angiotensina II no tiene ese efecto directo potente e inmediato.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00035",
+      "enunciado": "Reabsorción facultativa de agua (ADH dependiente) ocurre en:",
+      "opciones": [
+        "Túbulo proximal",
+        "Asa de Henle",
+        "Túbulo distal",
+        "Tubo colector"
+      ],
+      "correcta": 3,
+      "explicacion": "En el tubo colector la reabsorción depende de la presencia de ADH y acuaporinas.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00036",
+      "enunciado": "Uno de los siguientes diuréticos no está bien ubicado:",
+      "opciones": [
+        "Acetazolamida – túbulo proximal",
+        "Furosemida – rama descendente de Henle",
+        "Tiazidas – túbulo distal",
+        "Espironolactona – tubo colector"
+      ],
+      "correcta": 1,
+      "explicacion": "La Furosemida actúa en la rama ascendente gruesa de Henle, no en la descendente.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00037",
+      "enunciado": "Qué es falso respecto a la aldosterona:",
+      "opciones": [
+        "Activa el canal sensible a amilorida",
+        "Reabsorbe sodio",
+        "Actúa sobre un receptor de membrana en lado basal",
+        "Excreta potasio"
+      ],
+      "correcta": 2,
+      "explicacion": "La aldosterona es una hormona esteroidea, por lo que su receptor es intracelular, no de membrana.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00038",
+      "enunciado": "La TFG permanece constante porque:",
+      "opciones": [
+        "Al subir presión se contrae la eferente",
+        "Al bajar presión se contrae la aferente",
+        "Al subir presión se contrae la aferente",
+        "Al bajar presión se dilata la eferente"
+      ],
+      "correcta": 2,
+      "explicacion": "Reflejo miogénico: al subir la presión arterial, la arteriola aferente se contrae para proteger el glomérulo y mantener la TFG estable.",
+      "año": 2023
+    },
+    {
+      "id": "universidad_fisiologiaGeneral_00039",
+      "enunciado": "La reabsorción de glucosa en primera parte del túbulo proximal se produce por:",
+      "opciones": [
+        "SGLT1 luminal + GLUT2 basal",
+        "SGLT2 luminal + GLUT2 basal",
+        "SGLT2 luminal + GLUT1 basal",
+        "SGLT1 luminal + GLUT1 basal"
+      ],
+      "correcta": 1,
+      "explicacion": "En el segmento inicial (S1) actúa el transportador SGLT2 (luminal) y sale por GLUT2 (basolateral).",
+      "año": 2023
+    }
+  ]
+}
