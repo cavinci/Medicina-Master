@@ -13,7 +13,7 @@
                 {
                   "id": "uni_anatomia1",
                   "titulo": "Anatomía Humana I",
-                  "archivo": "universidad_anatomia1.json",
+                  "archivo": "universidad_anatomiaI.json",
                   "icono": "fa-skeleton"
                 },
                 {
@@ -60,4 +60,5 @@
       ]
     }
   ]
+
 }
